@@ -9,10 +9,6 @@ apt-get install python3-pip
 apt-get install python3-tz
 pip install requests rsa bs4 gtts gooslate googletrans pafy youtube_dl humanfriendly thrift==0.10.0 
 ```
-# PRANKBOTS
-![Prankbots](prankbots.png)
-V2.1 last update::
-05/0/2018
 # CONTACT OFFICIAL
 
 <a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
@@ -29,8 +25,13 @@ V2.1 last update::
 [BUAT AMBIL TOKKEN](http://101.255.95.249:6969)
 
 ## THANKS TO.
-```=========
+```
+=========
 Allah swt
 Prankbots
 Black of gamer
-Dan kawan-Kawan ```
+Dan kawan-Kawan
+```
+![Prankbots](prankbots.png)
+V2.1 last update::
+24/05/2018
