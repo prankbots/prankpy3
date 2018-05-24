@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from thrift.transport import THttpClient
 from thrift.protocol import TCompactProtocol
-from akad import TalkService, ChannelService, CallService#, SquareService
+from PB import TalkService, ChannelService, CallService#, SquareService
 
 class LineSession:
 
