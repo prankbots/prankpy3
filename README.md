@@ -4,9 +4,11 @@
 V2.1 editor_::
 Prankbots
 ## WORKING ON SERVER VPS
-`apt-get install python3-pip
+```
+apt-get install python3-pip
 apt-get install python3-tz
-pip install requests rsa bs4 gtts gooslate googletrans pafy youtube_dl humanfriendly thrift==0.10.0 `
+pip install requests rsa bs4 gtts gooslate googletrans pafy youtube_dl humanfriendly thrift==0.10.0 
+```
 # PRANKBOTS
 ![Prankbots](prankbots.png)
 V2.1 last update::
@@ -31,4 +33,4 @@ V2.1 last update::
 Allah swt
 Prankbots
 Black of gamer
-Dan kawan-Kawan```
+Dan kawan-Kawan ```
