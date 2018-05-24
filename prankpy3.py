@@ -296,7 +296,7 @@ def bot(op):
                             prank.sendText(to,"════SPEED BOTS═══\n" + "%seconds" % (elapsed_time) + "\n════PrankBots═══")
                             pb1.sendText(to,"════SPEED BOTS═══\n" + "%seconds" % (elapsed_time) + "\n════PrankBots═══")
                             pb2.sendText(to,"════SPEED BOTS═══\n" + "%seconds" % (elapsed_time) + "\n════PrankBots═══")
-                       if text.lower() == "help":
+                        if text.lower() == "help":
                             helpMessage = help()
                             cl.sendText(to, str(helpMessage))
                         elif text.lower() == 'tag':
