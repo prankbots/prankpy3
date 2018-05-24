@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from akad.ttypes import Message
+from PB.ttypes import Message
 from .api import LineApi
 from .models import LineModels
 from random import randint
